@@ -1,0 +1,1 @@
+**Resultados descritivos SUS:** em **12 de 26** capitais, o Q1 de renda tem distância média menor que o Q4. Na faixa de menor densidade, a distância relativa é **1.72** para o Q1 de renda e **1.21** para o Q4. As comparações são descritivas e não demonstram causalidade.

@@ -1,0 +1,5 @@
+**SUS:** α = **0.861**, IC 95% **[0.797; 0.935]**, com 245 áreas de atendimento em 26 capitais. A referência **2/3 está abaixo do intervalo**; a referência **1 está acima do intervalo**. No ajuste, dobrar a densidade populacional está associado a multiplicar a densidade de pronto-atendimentos por **1.82**. O R² em log-log é 0.815.
+
+**Todos:** α = **0.899**, IC 95% **[0.834; 0.973]**, com 272 áreas de atendimento em 26 capitais. A referência **2/3 está abaixo do intervalo**; a referência **1 está acima do intervalo**. No ajuste, dobrar a densidade populacional está associado a multiplicar a densidade de pronto-atendimentos por **1.86**. O R² em log-log é 0.809.
+
+**Comparação para explicar ao professor:** quando ρ dobra, a referência α=2/3 corresponde a multiplicar D por 1.59; o ajuste SUS corresponde a 1.82; e a proporcionalidade α=1 corresponde a 2,00. Esses fatores descrevem as retas comparadas, não uma mudança real na quantidade de unidades de uma cidade ao longo do tempo. O ajuste reúne áreas de atendimento de capitais diferentes e não comprova que a localização seja ótima nem responde ainda sobre renda.

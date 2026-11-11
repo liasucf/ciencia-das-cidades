@@ -1,0 +1,9 @@
+dados/ibge/censo2022/*.zip filter=lfs diff=lfs merge=lfs -text
+dados/ibge/setores_gpkg/*.gpkg filter=lfs diff=lfs merge=lfs -text
+dados/cnes/*.csv filter=lfs diff=lfs merge=lfs -text
+dados/cnes/*.zip filter=lfs diff=lfs merge=lfs -text
+dados/processados/*.csv filter=lfs diff=lfs merge=lfs -text
+dados/processados/**/*.csv filter=lfs diff=lfs merge=lfs -text
+dados/osm/*.graphml filter=lfs diff=lfs merge=lfs -text
+dados/osm/pbf/*.pbf filter=lfs diff=lfs merge=lfs -text
+dados/ibge/censo2022/*.csv filter=lfs diff=lfs merge=lfs -text

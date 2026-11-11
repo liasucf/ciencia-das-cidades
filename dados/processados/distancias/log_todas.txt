@@ -1,0 +1,1170 @@
+### Palmas - TO
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 15443 nós, 37720 arestas
+
+=== Palmas - TO ===
+Pronto-atendimentos: 2 (em nós distintos: 2)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 83
+Setores: 733 (habitados: 683, população 302,692)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 20 (1.56% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.19 km
+Mediana (por pessoa): 4.96 km; máximo: 69.28 km
+Razão rede / linha reta (mediana): 1.39
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    5.90
+Q2            5.16
+Q3            8.29
+Q4 (maior)    5.82
+
+Mapa de validação: figuras/validacao/palmas_drive.png
+### Palmas - TO --so-sus
+Rede 'drive': 15443 nós, 37720 arestas
+
+=== Palmas - TO ===
+Pronto-atendimentos: 2 (em nós distintos: 2)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 83
+Setores: 733 (habitados: 683, população 302,692)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 20 (1.56% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.19 km
+Mediana (por pessoa): 4.96 km; máximo: 69.28 km
+Razão rede / linha reta (mediana): 1.39
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    5.90
+Q2            5.16
+Q3            8.29
+Q4 (maior)    5.82
+
+Mapa de validação: figuras/validacao/palmas_drive_sus.png
+### Vitória - ES
+Recortando a rede 'drive' de sudeste-latest.osm.pbf...
+Rede 'drive': 18811 nós, 46833 arestas
+
+=== Vitória - ES ===
+Pronto-atendimentos: 3 (em nós distintos: 3)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 25
+Setores: 686 (habitados: 649, população 326,452)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 0 (0.00% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.46 km
+Mediana (por pessoa): 2.83 km; máximo: 8.98 km
+Razão rede / linha reta (mediana): 1.37
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    2.36
+Q2            3.27
+Q3            4.76
+Q4 (maior)    3.66
+
+Mapa de validação: figuras/validacao/vitoria_drive.png
+### Vitória - ES --so-sus
+Rede 'drive': 18811 nós, 46833 arestas
+
+=== Vitória - ES ===
+Pronto-atendimentos: 2 (em nós distintos: 2)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 25
+Setores: 686 (habitados: 649, população 326,452)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 0 (0.00% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.33 km
+Mediana (por pessoa): 4.00 km; máximo: 9.95 km
+Razão rede / linha reta (mediana): 1.28
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    2.80
+Q2            4.61
+Q3            5.86
+Q4 (maior)    4.36
+
+Mapa de validação: figuras/validacao/vitoria_drive_sus.png
+### Rio Branco - AC
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 13427 nós, 34242 arestas
+
+=== Rio Branco - AC ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 437
+Setores: 669 (habitados: 667, população 364,756)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 63 (6.01% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.73 km
+Mediana (por pessoa): 4.07 km; máximo: 196.88 km
+Razão rede / linha reta (mediana): 1.40
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    12.66
+Q2             7.05
+Q3             4.46
+Q4 (maior)     3.79
+
+Mapa de validação: figuras/validacao/rio_branco_drive.png
+### Rio Branco - AC --so-sus
+Rede 'drive': 13427 nós, 34242 arestas
+
+=== Rio Branco - AC ===
+Pronto-atendimentos: 3 (em nós distintos: 3)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 437
+Setores: 669 (habitados: 667, população 364,756)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 63 (6.01% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 7.74 km
+Mediana (por pessoa): 5.41 km; máximo: 196.88 km
+Razão rede / linha reta (mediana): 1.36
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    13.44
+Q2             8.03
+Q3             5.48
+Q4 (maior)     5.02
+
+Mapa de validação: figuras/validacao/rio_branco_drive_sus.png
+### Boa Vista - RR
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 12007 nós, 33543 arestas
+
+=== Boa Vista - RR ===
+Pronto-atendimentos: 1 (em nós distintos: 1)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 81
+Setores: 554 (habitados: 538, população 417,942)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 42 (3.17% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 7.13 km
+Mediana (por pessoa): 5.13 km; máximo: 126.97 km
+Razão rede / linha reta (mediana): 1.28
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    9.02
+Q2            6.78
+Q3            5.29
+Q4 (maior)    7.40
+
+Mapa de validação: figuras/validacao/boa_vista_drive.png
+### Boa Vista - RR --so-sus
+Rede 'drive': 12007 nós, 33543 arestas
+
+=== Boa Vista - RR ===
+Pronto-atendimentos: 1 (em nós distintos: 1)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 81
+Setores: 554 (habitados: 538, população 417,942)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 42 (3.17% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 7.13 km
+Mediana (por pessoa): 5.13 km; máximo: 126.97 km
+Razão rede / linha reta (mediana): 1.28
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    9.02
+Q2            6.78
+Q3            5.29
+Q4 (maior)    7.40
+
+Mapa de validação: figuras/validacao/boa_vista_drive_sus.png
+### Macapá - AP
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 10800 nós, 28810 arestas
+
+=== Macapá - AP ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 120
+Setores: 771 (habitados: 765, população 442,933)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 73 (3.71% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 9.44 km
+Mediana (por pessoa): 3.51 km; máximo: 199.38 km
+Razão rede / linha reta (mediana): 1.46
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    21.11
+Q2             9.63
+Q3             4.24
+Q4 (maior)     4.03
+
+Mapa de validação: figuras/validacao/macapa_drive.png
+### Macapá - AP --so-sus
+Rede 'drive': 10800 nós, 28810 arestas
+
+=== Macapá - AP ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 120
+Setores: 771 (habitados: 765, população 442,933)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 73 (3.71% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 9.44 km
+Mediana (por pessoa): 3.51 km; máximo: 199.38 km
+Razão rede / linha reta (mediana): 1.46
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    21.11
+Q2             9.63
+Q3             4.24
+Q4 (maior)     4.03
+
+Mapa de validação: figuras/validacao/macapa_drive_sus.png
+### Porto Velho - RO
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 15398 nós, 41294 arestas
+
+=== Porto Velho - RO ===
+Pronto-atendimentos: 7 (em nós distintos: 7)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 77
+Setores: 796 (habitados: 763, população 460,434)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 108 (6.29% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 16.85 km
+Mediana (por pessoa): 2.92 km; máximo: 270.90 km
+Razão rede / linha reta (mediana): 1.35
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    18.97
+Q2            21.29
+Q3            21.25
+Q4 (maior)     6.32
+
+Mapa de validação: figuras/validacao/porto_velho_drive.png
+### Porto Velho - RO --so-sus
+Rede 'drive': 15398 nós, 41294 arestas
+
+=== Porto Velho - RO ===
+Pronto-atendimentos: 7 (em nós distintos: 7)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 77
+Setores: 796 (habitados: 763, população 460,434)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 108 (6.29% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 16.85 km
+Mediana (por pessoa): 2.92 km; máximo: 270.90 km
+Razão rede / linha reta (mediana): 1.35
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    18.97
+Q2            21.29
+Q3            21.25
+Q4 (maior)     6.32
+
+Mapa de validação: figuras/validacao/porto_velho_drive_sus.png
+### Florianópolis - SC
+Recortando a rede 'drive' de sul-latest.osm.pbf...
+Rede 'drive': 12807 nós, 29328 arestas
+
+=== Florianópolis - SC ===
+Pronto-atendimentos: 3 (em nós distintos: 3)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 135
+Setores: 1019 (habitados: 986, população 539,919)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 56 (1.23% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 8.59 km
+Mediana (por pessoa): 8.75 km; máximo: 30.77 km
+Razão rede / linha reta (mediana): 1.43
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    8.49
+Q2            8.72
+Q3            8.43
+Q4 (maior)    8.68
+
+Mapa de validação: figuras/validacao/florianopolis_drive.png
+### Florianópolis - SC --so-sus
+Rede 'drive': 12807 nós, 29328 arestas
+
+=== Florianópolis - SC ===
+Pronto-atendimentos: 3 (em nós distintos: 3)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 135
+Setores: 1019 (habitados: 986, população 539,919)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 56 (1.23% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 8.59 km
+Mediana (por pessoa): 8.75 km; máximo: 30.77 km
+Razão rede / linha reta (mediana): 1.43
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    8.49
+Q2            8.72
+Q3            8.43
+Q4 (maior)    8.68
+
+Mapa de validação: figuras/validacao/florianopolis_drive_sus.png
+### Cuiabá - MT
+Recortando a rede 'drive' de centro-oeste-latest.osm.pbf...
+Rede 'drive': 29812 nós, 81583 arestas
+
+=== Cuiabá - MT ===
+Pronto-atendimentos: 5 (em nós distintos: 5)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 57
+Setores: 1147 (habitados: 1136, população 650,877)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 32 (1.20% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.72 km
+Mediana (por pessoa): 3.44 km; máximo: 123.40 km
+Razão rede / linha reta (mediana): 1.34
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    5.32
+Q2            5.54
+Q3            4.41
+Q4 (maior)    3.60
+
+Mapa de validação: figuras/validacao/cuiaba_drive.png
+### Cuiabá - MT --so-sus
+Rede 'drive': 29812 nós, 81583 arestas
+
+=== Cuiabá - MT ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 57
+Setores: 1147 (habitados: 1136, população 650,877)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 32 (1.20% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.88 km
+Mediana (por pessoa): 3.68 km; máximo: 123.40 km
+Razão rede / linha reta (mediana): 1.33
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    5.35
+Q2            5.64
+Q3            4.50
+Q4 (maior)    4.02
+
+Mapa de validação: figuras/validacao/cuiaba_drive_sus.png
+### Natal - RN
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 29806 nós, 78160 arestas
+
+=== Natal - RN ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 57
+Setores: 1124 (habitados: 1089, população 751,300)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 2 (0.09% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.77 km
+Mediana (por pessoa): 3.40 km; máximo: 11.27 km
+Razão rede / linha reta (mediana): 1.36
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.69
+Q2            3.26
+Q3            3.20
+Q4 (maior)    4.97
+
+Mapa de validação: figuras/validacao/natal_drive.png
+### Natal - RN --so-sus
+Rede 'drive': 29806 nós, 78160 arestas
+
+=== Natal - RN ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 57
+Setores: 1124 (habitados: 1089, população 751,300)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 2 (0.09% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.77 km
+Mediana (por pessoa): 3.40 km; máximo: 11.27 km
+Razão rede / linha reta (mediana): 1.36
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.69
+Q2            3.26
+Q3            3.20
+Q4 (maior)    4.97
+
+Mapa de validação: figuras/validacao/natal_drive_sus.png
+### João Pessoa - PB
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 23515 nós, 64504 arestas
+
+=== João Pessoa - PB ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 65
+Setores: 1777 (habitados: 1747, população 833,932)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 5 (0.06% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.55 km
+Mediana (por pessoa): 3.37 km; máximo: 14.50 km
+Razão rede / linha reta (mediana): 1.40
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    4.12
+Q2            3.77
+Q3            3.48
+Q4 (maior)    2.92
+
+Mapa de validação: figuras/validacao/joao_pessoa_drive.png
+### João Pessoa - PB --so-sus
+Rede 'drive': 23515 nós, 64504 arestas
+
+=== João Pessoa - PB ===
+Pronto-atendimentos: 4 (em nós distintos: 4)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 65
+Setores: 1777 (habitados: 1747, população 833,932)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 5 (0.06% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.55 km
+Mediana (por pessoa): 3.37 km; máximo: 14.50 km
+Razão rede / linha reta (mediana): 1.40
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    4.12
+Q2            3.77
+Q3            3.48
+Q4 (maior)    2.92
+
+Mapa de validação: figuras/validacao/joao_pessoa_drive_sus.png
+### Teresina - PI
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 35477 nós, 99461 arestas
+
+=== Teresina - PI ===
+Pronto-atendimentos: 3 (em nós distintos: 3)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 28
+Setores: 1530 (habitados: 1512, população 866,300)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 34 (1.42% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.44 km
+Mediana (por pessoa): 5.23 km; máximo: 59.27 km
+Razão rede / linha reta (mediana): 1.30
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    8.50
+Q2            7.02
+Q3            5.32
+Q4 (maior)    5.22
+
+Mapa de validação: figuras/validacao/teresina_drive.png
+### Teresina - PI --so-sus
+Rede 'drive': 35477 nós, 99461 arestas
+
+=== Teresina - PI ===
+Pronto-atendimentos: 3 (em nós distintos: 3)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 28
+Setores: 1530 (habitados: 1512, população 866,300)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 34 (1.42% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.44 km
+Mediana (por pessoa): 5.23 km; máximo: 59.27 km
+Razão rede / linha reta (mediana): 1.30
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    8.50
+Q2            7.02
+Q3            5.32
+Q4 (maior)    5.22
+
+Mapa de validação: figuras/validacao/teresina_drive_sus.png
+### Campo Grande - MS
+Recortando a rede 'drive' de centro-oeste-latest.osm.pbf...
+Rede 'drive': 29294 nós, 84695 arestas
+
+=== Campo Grande - MS ===
+Pronto-atendimentos: 10 (em nós distintos: 10)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 80
+Setores: 1665 (habitados: 1657, população 898,100)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 36 (0.81% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.46 km
+Mediana (por pessoa): 2.88 km; máximo: 196.84 km
+Razão rede / linha reta (mediana): 1.31
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    4.43
+Q2            3.43
+Q3            3.00
+Q4 (maior)    2.83
+
+Mapa de validação: figuras/validacao/campo_grande_drive.png
+### Campo Grande - MS --so-sus
+Rede 'drive': 29294 nós, 84695 arestas
+
+=== Campo Grande - MS ===
+Pronto-atendimentos: 10 (em nós distintos: 10)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 80
+Setores: 1665 (habitados: 1657, população 898,100)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 36 (0.81% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.46 km
+Mediana (por pessoa): 2.88 km; máximo: 196.84 km
+Razão rede / linha reta (mediana): 1.31
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    4.43
+Q2            3.43
+Q3            3.00
+Q4 (maior)    2.83
+
+Mapa de validação: figuras/validacao/campo_grande_drive_sus.png
+### Maceió - AL
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 19891 nós, 49520 arestas
+
+=== Maceió - AL ===
+Pronto-atendimentos: 8 (em nós distintos: 8)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 135
+Setores: 1620 (habitados: 1572, população 959,023)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 7 (0.24% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.05 km
+Mediana (por pessoa): 2.57 km; máximo: 30.61 km
+Razão rede / linha reta (mediana): 1.45
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.42
+Q2            3.46
+Q3            2.48
+Q4 (maior)    2.95
+
+Mapa de validação: figuras/validacao/maceio_drive.png
+### Maceió - AL --so-sus
+Rede 'drive': 19891 nós, 49520 arestas
+
+=== Maceió - AL ===
+Pronto-atendimentos: 8 (em nós distintos: 8)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 135
+Setores: 1620 (habitados: 1572, população 959,023)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 7 (0.24% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.05 km
+Mediana (por pessoa): 2.57 km; máximo: 30.61 km
+Razão rede / linha reta (mediana): 1.45
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.42
+Q2            3.46
+Q3            2.48
+Q4 (maior)    2.95
+
+Mapa de validação: figuras/validacao/maceio_drive_sus.png
+### São Luís - MA
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 31127 nós, 83094 arestas
+
+=== São Luís - MA ===
+Pronto-atendimentos: 9 (em nós distintos: 9)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 120
+Setores: 1739 (habitados: 1722, população 1,042,647)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 25 (0.96% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 5.32 km
+Mediana (por pessoa): 3.96 km; máximo: 36.95 km
+Razão rede / linha reta (mediana): 1.47
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    8.14
+Q2            6.11
+Q3            3.65
+Q4 (maior)    2.91
+
+Mapa de validação: figuras/validacao/sao_luis_drive.png
+### São Luís - MA --so-sus
+Rede 'drive': 31127 nós, 83094 arestas
+
+=== São Luís - MA ===
+Pronto-atendimentos: 9 (em nós distintos: 9)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 120
+Setores: 1739 (habitados: 1722, população 1,042,647)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 25 (0.96% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 5.32 km
+Mediana (por pessoa): 3.96 km; máximo: 36.95 km
+Razão rede / linha reta (mediana): 1.47
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    8.14
+Q2            6.11
+Q3            3.65
+Q4 (maior)    2.91
+
+Mapa de validação: figuras/validacao/sao_luis_drive_sus.png
+### Belém - PA
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 22219 nós, 56269 arestas
+
+=== Belém - PA ===
+Pronto-atendimentos: 5 (em nós distintos: 5)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 207
+Setores: 2075 (habitados: 2057, população 1,310,755)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 141 (4.04% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.62 km
+Mediana (por pessoa): 3.09 km; máximo: 57.49 km
+Razão rede / linha reta (mediana): 1.43
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    7.17
+Q2            5.01
+Q3            3.83
+Q4 (maior)    2.67
+
+Mapa de validação: figuras/validacao/belem_drive.png
+### Belém - PA --so-sus
+Rede 'drive': 22219 nós, 56269 arestas
+
+=== Belém - PA ===
+Pronto-atendimentos: 5 (em nós distintos: 5)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 207
+Setores: 2075 (habitados: 2057, população 1,310,755)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 141 (4.04% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.62 km
+Mediana (por pessoa): 3.09 km; máximo: 57.49 km
+Razão rede / linha reta (mediana): 1.43
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    7.17
+Q2            5.01
+Q3            3.83
+Q4 (maior)    2.67
+
+Mapa de validação: figuras/validacao/belem_drive_sus.png
+### Porto Alegre - RS
+Recortando a rede 'drive' de sul-latest.osm.pbf...
+Rede 'drive': 33378 nós, 82633 arestas
+
+=== Porto Alegre - RS ===
+Pronto-atendimentos: 7 (em nós distintos: 6)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 92
+Setores: 2741 (habitados: 2716, população 1,333,912)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 37 (0.93% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.90 km
+Mediana (por pessoa): 4.22 km; máximo: 23.82 km
+Razão rede / linha reta (mediana): 1.34
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    5.77
+Q2            5.46
+Q3            4.16
+Q4 (maior)    4.04
+
+Mapa de validação: figuras/validacao/porto_alegre_drive.png
+### Porto Alegre - RS --so-sus
+Rede 'drive': 33378 nós, 82633 arestas
+
+=== Porto Alegre - RS ===
+Pronto-atendimentos: 5 (em nós distintos: 5)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 92
+Setores: 2741 (habitados: 2716, população 1,333,912)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 37 (0.93% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.93 km
+Mediana (por pessoa): 4.23 km; máximo: 23.82 km
+Razão rede / linha reta (mediana): 1.35
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    5.78
+Q2            5.48
+Q3            4.21
+Q4 (maior)    4.06
+
+Mapa de validação: figuras/validacao/porto_alegre_drive_sus.png
+### Goiânia - GO
+Recortando a rede 'drive' de centro-oeste-latest.osm.pbf...
+Rede 'drive': 62610 nós, 165337 arestas
+
+=== Goiânia - GO ===
+Pronto-atendimentos: 8 (em nós distintos: 8)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 60
+Setores: 2310 (habitados: 2304, população 1,437,366)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 10 (0.21% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 5.42 km
+Mediana (por pessoa): 4.59 km; máximo: 27.83 km
+Razão rede / linha reta (mediana): 1.33
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    6.68
+Q2            5.81
+Q3            5.21
+Q4 (maior)    3.88
+
+Mapa de validação: figuras/validacao/goiania_drive.png
+### Goiânia - GO --so-sus
+Rede 'drive': 62610 nós, 165337 arestas
+
+=== Goiânia - GO ===
+Pronto-atendimentos: 6 (em nós distintos: 6)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 43
+Setores: 2310 (habitados: 2304, população 1,437,366)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 10 (0.21% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 5.44 km
+Mediana (por pessoa): 4.61 km; máximo: 27.83 km
+Razão rede / linha reta (mediana): 1.33
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    6.69
+Q2            5.82
+Q3            5.23
+Q4 (maior)    3.94
+
+Mapa de validação: figuras/validacao/goiania_drive_sus.png
+### Recife - PE
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 41346 nós, 106351 arestas
+
+=== Recife - PE ===
+Pronto-atendimentos: 6 (em nós distintos: 6)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 89
+Setores: 2835 (habitados: 2815, população 1,488,924)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 10 (0.18% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.44 km
+Mediana (por pessoa): 3.16 km; máximo: 15.71 km
+Razão rede / linha reta (mediana): 1.33
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.45
+Q2            3.11
+Q3            3.47
+Q4 (maior)    3.67
+
+Mapa de validação: figuras/validacao/recife_drive.png
+### Recife - PE --so-sus
+Rede 'drive': 41346 nós, 106351 arestas
+
+=== Recife - PE ===
+Pronto-atendimentos: 5 (em nós distintos: 5)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 89
+Setores: 2835 (habitados: 2815, população 1,488,924)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 10 (0.18% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.67 km
+Mediana (por pessoa): 3.44 km; máximo: 15.71 km
+Razão rede / linha reta (mediana): 1.37
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.54
+Q2            3.23
+Q3            3.55
+Q4 (maior)    4.32
+
+Mapa de validação: figuras/validacao/recife_drive_sus.png
+### Curitiba - PR
+Recortando a rede 'drive' de sul-latest.osm.pbf...
+Rede 'drive': 54036 nós, 140103 arestas
+
+=== Curitiba - PR ===
+Pronto-atendimentos: 9 (em nós distintos: 9)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 101
+Setores: 3190 (habitados: 3178, população 1,773,718)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 4 (0.07% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.80 km
+Mediana (por pessoa): 3.34 km; máximo: 14.94 km
+Razão rede / linha reta (mediana): 1.34
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.04
+Q2            3.30
+Q3            3.90
+Q4 (maior)    4.97
+
+Mapa de validação: figuras/validacao/curitiba_drive.png
+### Curitiba - PR --so-sus
+Rede 'drive': 54036 nós, 140103 arestas
+
+=== Curitiba - PR ===
+Pronto-atendimentos: 9 (em nós distintos: 9)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 101
+Setores: 3190 (habitados: 3178, população 1,773,718)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 4 (0.07% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.80 km
+Mediana (por pessoa): 3.34 km; máximo: 14.94 km
+Razão rede / linha reta (mediana): 1.34
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.04
+Q2            3.30
+Q3            3.90
+Q4 (maior)    4.97
+
+Mapa de validação: figuras/validacao/curitiba_drive_sus.png
+### Manaus - AM
+Recortando a rede 'drive' de norte-latest.osm.pbf...
+Rede 'drive': 31445 nós, 81315 arestas
+
+=== Manaus - AM ===
+Pronto-atendimentos: 11 (em nós distintos: 11)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 225
+Setores: 3318 (habitados: 3264, população 2,068,939)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 133 (1.23% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.60 km
+Mediana (por pessoa): 3.44 km; máximo: 167.44 km
+Razão rede / linha reta (mediana): 1.46
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    7.61
+Q2            3.79
+Q3            3.26
+Q4 (maior)    3.78
+
+Mapa de validação: figuras/validacao/manaus_drive.png
+### Manaus - AM --so-sus
+Rede 'drive': 31445 nós, 81315 arestas
+
+=== Manaus - AM ===
+Pronto-atendimentos: 10 (em nós distintos: 10)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 225
+Setores: 3318 (habitados: 3264, população 2,068,939)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 133 (1.23% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 4.77 km
+Mediana (por pessoa): 3.66 km; máximo: 167.44 km
+Razão rede / linha reta (mediana): 1.45
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    7.95
+Q2            4.03
+Q3            3.34
+Q4 (maior)    3.80
+
+Mapa de validação: figuras/validacao/manaus_drive_sus.png
+### Belo Horizonte - MG
+Recortando a rede 'drive' de sudeste-latest.osm.pbf...
+Rede 'drive': 52858 nós, 137182 arestas
+
+=== Belo Horizonte - MG ===
+Pronto-atendimentos: 11 (em nós distintos: 11)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 82
+Setores: 5167 (habitados: 5138, população 2,315,731)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 1 (0.00% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.19 km
+Mediana (por pessoa): 2.98 km; máximo: 12.13 km
+Razão rede / linha reta (mediana): 1.40
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.71
+Q2            3.30
+Q3            2.98
+Q4 (maior)    2.75
+
+Mapa de validação: figuras/validacao/belo_horizonte_drive.png
+### Belo Horizonte - MG --so-sus
+Rede 'drive': 52858 nós, 137182 arestas
+
+=== Belo Horizonte - MG ===
+Pronto-atendimentos: 9 (em nós distintos: 9)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 82
+Setores: 5167 (habitados: 5138, população 2,315,731)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 1 (0.00% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.42 km
+Mediana (por pessoa): 3.23 km; máximo: 12.13 km
+Razão rede / linha reta (mediana): 1.40
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.87
+Q2            3.48
+Q3            3.20
+Q4 (maior)    3.10
+
+Mapa de validação: figuras/validacao/belo_horizonte_drive_sus.png
+### Salvador - BA
+Recortando a rede 'drive' de nordeste-latest.osm.pbf...
+Rede 'drive': 34191 nós, 79113 arestas
+
+=== Salvador - BA ===
+Pronto-atendimentos: 21 (em nós distintos: 21)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 5166
+Setores: 4544 (habitados: 4507, população 2,418,518)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 19 (0.33% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 2.87 km
+Mediana (por pessoa): 2.40 km; máximo: 23.33 km
+Razão rede / linha reta (mediana): 1.65
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.00
+Q2            2.69
+Q3            2.65
+Q4 (maior)    3.17
+
+Mapa de validação: figuras/validacao/salvador_drive.png
+### Salvador - BA --so-sus
+Rede 'drive': 34191 nós, 79113 arestas
+
+=== Salvador - BA ===
+Pronto-atendimentos: 20 (em nós distintos: 20)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 92
+Setores: 4544 (habitados: 4507, população 2,418,518)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 19 (0.33% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 2.87 km
+Mediana (por pessoa): 2.40 km; máximo: 23.30 km
+Razão rede / linha reta (mediana): 1.65
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.00
+Q2            2.69
+Q3            2.64
+Q4 (maior)    3.17
+
+Mapa de validação: figuras/validacao/salvador_drive_sus.png
+### Fortaleza - CE
+Rede 'drive': 50476 nós, 132987 arestas
+
+=== Fortaleza - CE ===
+Pronto-atendimentos: 13 (em nós distintos: 13)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 87
+Setores: 4407 (habitados: 4306, população 2,428,708)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 1 (0.00% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 2.95 km
+Mediana (por pessoa): 2.71 km; máximo: 11.75 km
+Razão rede / linha reta (mediana): 1.36
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    2.62
+Q2            2.72
+Q3            2.97
+Q4 (maior)    3.40
+
+Mapa de validação: figuras/validacao/fortaleza_drive.png
+### Fortaleza - CE --so-sus
+Rede 'drive': 50476 nós, 132987 arestas
+
+=== Fortaleza - CE ===
+Pronto-atendimentos: 12 (em nós distintos: 12)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 87
+Setores: 4407 (habitados: 4306, população 2,428,708)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 1 (0.00% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.25 km
+Mediana (por pessoa): 2.90 km; máximo: 11.75 km
+Razão rede / linha reta (mediana): 1.34
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    2.66
+Q2            2.78
+Q3            3.04
+Q4 (maior)    4.34
+
+Mapa de validação: figuras/validacao/fortaleza_drive_sus.png
+### Brasília - DF
+Recortando a rede 'drive' de centro-oeste-latest.osm.pbf...
+Rede 'drive': 104084 nós, 250455 arestas
+
+=== Brasília - DF ===
+Pronto-atendimentos: 14 (em nós distintos: 14)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 128
+Setores: 5414 (habitados: 5342, população 2,817,381)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 144 (1.37% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.72 km
+Mediana (por pessoa): 5.25 km; máximo: 54.15 km
+Razão rede / linha reta (mediana): 1.47
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)     4.96
+Q2             4.90
+Q3             6.11
+Q4 (maior)    11.01
+
+Mapa de validação: figuras/validacao/brasilia_drive.png
+### Brasília - DF --so-sus
+Rede 'drive': 104084 nós, 250455 arestas
+
+=== Brasília - DF ===
+Pronto-atendimentos: 13 (em nós distintos: 13)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 128
+Setores: 5414 (habitados: 5342, população 2,817,381)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 144 (1.37% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 6.79 km
+Mediana (por pessoa): 5.33 km; máximo: 54.15 km
+Razão rede / linha reta (mediana): 1.47
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)     4.98
+Q2             4.95
+Q3             6.23
+Q4 (maior)    11.08
+
+Mapa de validação: figuras/validacao/brasilia_drive_sus.png
+### Rio de Janeiro - RJ
+Recortando a rede 'drive' de sudeste-latest.osm.pbf...
+Rede 'drive': 88113 nós, 216980 arestas
+
+=== Rio de Janeiro - RJ ===
+Pronto-atendimentos: 38 (em nós distintos: 38)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 104
+Setores: 13897 (habitados: 13518, população 6,229,245)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 75 (0.29% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.55 km
+Mediana (por pessoa): 2.78 km; máximo: 25.30 km
+Razão rede / linha reta (mediana): 1.48
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.41
+Q2            3.67
+Q3            3.02
+Q4 (maior)    4.17
+
+Mapa de validação: figuras/validacao/rio_de_janeiro_drive.png
+### Rio de Janeiro - RJ --so-sus
+Rede 'drive': 88113 nós, 216980 arestas
+
+=== Rio de Janeiro - RJ ===
+Pronto-atendimentos: 31 (em nós distintos: 31)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 104
+Setores: 13897 (habitados: 13518, população 6,229,245)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 75 (0.29% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 3.83 km
+Mediana (por pessoa): 2.96 km; máximo: 27.54 km
+Razão rede / linha reta (mediana): 1.49
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    3.54
+Q2            3.87
+Q3            3.29
+Q4 (maior)    4.72
+
+Mapa de validação: figuras/validacao/rio_de_janeiro_drive_sus.png
+### São Paulo - SP
+Recortando a rede 'drive' de sudeste-latest.osm.pbf...
+Rede 'drive': 184495 nós, 456033 arestas
+
+=== São Paulo - SP ===
+Pronto-atendimentos: 64 (em nós distintos: 64)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 152
+Setores: 27291 (habitados: 26889, população 11,451,999)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 39 (0.04% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 2.73 km
+Mediana (por pessoa): 2.57 km; máximo: 27.23 km
+Razão rede / linha reta (mediana): 1.43
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    2.89
+Q2            2.70
+Q3            2.65
+Q4 (maior)    2.64
+
+Mapa de validação: figuras/validacao/sao_paulo_drive.png
+### São Paulo - SP --so-sus
+Rede 'drive': 184495 nós, 456033 arestas
+
+=== São Paulo - SP ===
+Pronto-atendimentos: 56 (em nós distintos: 56)
+PAs fora do limite municipal: 0 []
+Ligação dos PAs à rede (m): máx 152
+Setores: 27291 (habitados: 26889, população 11,451,999)
+Setores com distância infinita: 0
+Setores habitados com ligação > 500 m: 39 (0.04% da população)
+Setores com distância de rede < linha reta (deveria ser 0): 0
+Distância média ponderada pela população: 2.88 km
+Mediana (por pessoa): 2.71 km; máximo: 27.23 km
+Razão rede / linha reta (mediana): 1.42
+Prévia - distância média (km) por quartil de renda:
+renda_media
+Q1 (menor)    2.90
+Q2            2.75
+Q3            2.84
+Q4 (maior)    3.06
+
+Mapa de validação: figuras/validacao/sao_paulo_drive_sus.png
+### FIM

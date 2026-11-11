@@ -1,0 +1,607 @@
+{
+"{\"city\": \"Belo Horizonte\", \"country\": \"Brasil\", \"state\": \"MG\", \"street\": \"307 AVENIDA RISOLETA NEVES\"}": [
+-19.8489286,
+-43.919103
+],
+"{\"city\": \"Belo Horizonte\", \"country\": \"Brasil\", \"state\": \"MG\", \"street\": \"7260 AVENIDA DOS ANDRADAS\"}": [
+-19.9057784,
+-43.8966122
+],
+"{\"city\": \"Belo Horizonte\", \"country\": \"Brasil\", \"state\": \"MG\", \"street\": \"85 RUA JOAO CARVALHAIS DE PAIVA\"}": null,
+"{\"city\": \"Belo Horizonte\", \"country\": \"Brasil\", \"postalcode\": \"31270720\"}": [
+-19.9227318,
+-43.9450948
+],
+"{\"city\": \"Belém\", \"country\": \"Brasil\", \"state\": \"PA\", \"street\": \"860 AVENIDA DR FREITAS\"}": [
+-1.4159917,
+-48.4664566
+],
+"{\"city\": \"Belém\", \"country\": \"Brasil\", \"state\": \"PA\", \"street\": \"AV PERIMETRAL\"}": [
+-1.449031,
+-48.4467837
+],
+"{\"city\": \"Boa Vista\", \"country\": \"Brasil\", \"state\": \"RR\", \"street\": \"RUA DELMAN VERAS\"}": [
+2.8089124,
+-60.7386033
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"state\": \"MT\", \"street\": \"AV TANCREDO NEVES\"}": [
+-15.6259752,
+-56.0772816
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"postalcode\": \"78053600\"}": [
+-15.5986686,
+-56.0991301
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"state\": \"MT\", \"street\": \"100 AVENIDA BRASIL\"}": [
+-15.5406264,
+-56.0300644
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"postalcode\": \"78098110\"}": [
+-15.5986686,
+-56.0991301
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"state\": \"MT\", \"street\": \"01 ESTRADA DO MOINHO\"}": [
+-15.6368004,
+-56.0271268
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"postalcode\": \"78060055\"}": [
+-15.5986686,
+-56.0991301
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"state\": \"MT\", \"street\": \"450 CORUMBA\"}": [
+-15.5920775,
+-56.0895156
+],
+"{\"city\": \"Fortaleza\", \"country\": \"Brasil\", \"state\": \"CE\", \"street\": \"RUA 15\"}": [
+-3.8105124,
+-38.550806
+],
+"{\"city\": \"Fortaleza\", \"country\": \"Brasil\", \"postalcode\": \"60871790\"}": [
+-3.7932167,
+-38.5280359
+],
+"{\"city\": \"Fortaleza\", \"country\": \"Brasil\", \"state\": \"CE\", \"street\": \"RUA 860\"}": [
+-3.7695433,
+-38.5990613
+],
+"{\"city\": \"Fortaleza\", \"country\": \"Brasil\", \"state\": \"CE\", \"street\": \"RUA SARGENTO JOAO PINHEIRO\"}": [
+-3.7895865,
+-38.6246787
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"state\": \"GO\", \"street\": \"RUA PEDRO ALVARES CABRAL\"}": null,
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"postalcode\": \"74710110\"}": [
+-16.680882,
+-49.2532691
+],
+"{\"city\": \"Macapá\", \"country\": \"Brasil\", \"state\": \"AP\", \"street\": \"RUA SANTO EXPEDITO\"}": [
+0.0927154,
+-51.1159703
+],
+"{\"city\": \"Macapá\", \"country\": \"Brasil\", \"postalcode\": \"68909539\"}": [
+0.0401529,
+-51.0569588
+],
+"{\"city\": \"Macapá\", \"country\": \"Brasil\", \"state\": \"AP\", \"street\": \"AVENIDA FRANCISCO ALVES CORREA\"}": [
+0.0969889,
+-51.0512333
+],
+"{\"city\": \"Macapá\", \"country\": \"Brasil\", \"state\": \"AP\", \"street\": \"AV IVALDO ALVES VERAS\"}": [
+0.0025766,
+-51.0887848
+],
+"{\"city\": \"Maceió\", \"country\": \"Brasil\", \"state\": \"AL\", \"street\": \"RUA G CONJUNTO SANTA MARIA\"}": null,
+"{\"city\": \"Maceió\", \"country\": \"Brasil\", \"postalcode\": \"57072081\"}": [
+-9.6476843,
+-35.7339264
+],
+"{\"city\": \"Maceió\", \"country\": \"Brasil\", \"state\": \"AL\", \"street\": \"RUA DO CAMPO\"}": [
+-9.6200657,
+-35.6940737
+],
+"{\"city\": \"Maceió\", \"country\": \"Brasil\", \"postalcode\": \"57080000\"}": [
+-9.6476843,
+-35.7339264
+],
+"{\"city\": \"Manaus\", \"country\": \"Brasil\", \"state\": \"AM\", \"street\": \"649 AVENIDA DONA OTILIA\"}": [
+-3.0071962,
+-60.0357441
+],
+"{\"city\": \"Rio de Janeiro\", \"country\": \"Brasil\", \"state\": \"RJ\", \"street\": \"PARQUE POETA MANUEL BANDEIRA\"}": null,
+"{\"city\": \"Rio de Janeiro\", \"country\": \"Brasil\", \"postalcode\": \"21910296\"}": [
+-22.9110137,
+-43.2093727
+],
+"{\"city\": \"Rio de Janeiro\", \"country\": \"Brasil\", \"state\": \"RJ\", \"street\": \"1390 AV DOM HELDER CAMARA\"}": [
+-22.8862592,
+-43.2886485
+],
+"{\"city\": \"Rio de Janeiro\", \"country\": \"Brasil\", \"postalcode\": \"20973011\"}": [
+-22.9110137,
+-43.2093727
+],
+"{\"city\": \"Rio de Janeiro\", \"country\": \"Brasil\", \"state\": \"RJ\", \"street\": \"RUA BERNARDO\"}": [
+-22.9020752,
+-43.3069787
+],
+"{\"city\": \"Rio de Janeiro\", \"country\": \"Brasil\", \"state\": \"RJ\", \"street\": \"ESTRADA MANUEL NOGUEIRA DE SA\"}": [
+-22.8929342,
+-43.4183027
+],
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"358 RUA DAS PEDRINHAS\"}": [
+-12.8544987,
+-38.4565226
+],
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"RUA DIRETA CURUZU\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"postalcode\": \"40365230\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"02 AV HILDA 1 E 2 ANDAR\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"postalcode\": \"41110200\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"01 AVENIDA DENDENZEIROS\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"postalcode\": \"40420010\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"RUA MARQUES DE MARICA\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"postalcode\": \"40301000\"}": null,
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"290 RUA CRUZ DAS ALMAS\"}": [
+-23.6530538,
+-46.6453673
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"04330060\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"Brasília\", \"country\": \"Brasil\", \"state\": \"DF\", \"street\": \"Q QUADRA 37\"}": [
+-15.6870615,
+-47.8315421
+],
+"{\"city\": \"Brasília\", \"country\": \"Brasil\", \"postalcode\": \"72737000\"}": [
+-15.7939869,
+-47.8828
+],
+"{\"city\": \"Campo Grande\", \"country\": \"Brasil\", \"state\": \"MS\", \"street\": \"1079 RUA MINISTRO JOSE LINHARES\"}": [
+-20.4411434,
+-54.6540129
+],
+"{\"city\": \"Campo Grande\", \"country\": \"Brasil\", \"state\": \"MS\", \"street\": \"44 AVENIDA NOSSO SENHOR DO BONFIM\"}": [
+-20.4198524,
+-54.5597009
+],
+"{\"city\": \"Campo Grande\", \"country\": \"Brasil\", \"postalcode\": \"79034000\"}": [
+-20.4485001,
+-54.5920796
+],
+"{\"city\": \"Campo Grande\", \"country\": \"Brasil\", \"state\": \"MS\", \"street\": \"174 RUA LUCIA HELENA COELHO MAYMONE\"}": [
+-20.456134,
+-54.7100608
+],
+"{\"city\": \"Cuiabá\", \"country\": \"Brasil\", \"state\": \"MT\", \"street\": \"AVENIDA AGRICOLA PAES DE BARROS\"}": [
+-15.6041781,
+-56.1341393
+],
+"{\"city\": \"Curitiba\", \"country\": \"Brasil\", \"state\": \"PR\", \"street\": \"3370 RUA SENADOR ACCIOLY FILHO\"}": [
+-25.4972689,
+-49.339012
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"state\": \"GO\", \"street\": \"RUA DF 2 COM DF 18\"}": null,
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"postalcode\": \"74870022\"}": [
+-16.680882,
+-49.2532691
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"state\": \"GO\", \"street\": \"18 RUA 9 B\"}": [
+-16.6807519,
+-49.271109
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"state\": \"GO\", \"street\": \"RUA 29A\"}": [
+-16.6012396,
+-49.3499836
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"postalcode\": \"74075455\"}": [
+-16.680882,
+-49.2532691
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"state\": \"GO\", \"street\": \"AVENIDA RIO VERMELHO\"}": [
+-16.6891198,
+-49.2064985
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"postalcode\": \"74356002\"}": [
+-16.680882,
+-49.2532691
+],
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"state\": \"GO\", \"street\": \"RUA JC 22 COM JC 27 E JC 27 A\"}": null,
+"{\"city\": \"Goiânia\", \"country\": \"Brasil\", \"postalcode\": \"74480650\"}": [
+-16.680882,
+-49.2532691
+],
+"{\"city\": \"Manaus\", \"country\": \"Brasil\", \"state\": \"AM\", \"street\": \"33 RUA BENTO JOSE DE LIMA\"}": [
+-3.1460805,
+-60.0088618
+],
+"{\"city\": \"Manaus\", \"country\": \"Brasil\", \"state\": \"AM\", \"street\": \"1024 CAMAPUA\"}": [
+-3.0276728,
+-59.9610642
+],
+"{\"city\": \"Palmas\", \"country\": \"Brasil\", \"state\": \"TO\", \"street\": \"04 RUA PERIMENTRAL 2\"}": null,
+"{\"city\": \"Palmas\", \"country\": \"Brasil\", \"postalcode\": \"77060236\"}": null,
+"{\"city\": \"Palmas\", \"country\": \"Brasil\", \"state\": \"TO\", \"street\": \"203 NORTE ALAMEDA LO 06 APM 02\"}": null,
+"{\"city\": \"Palmas\", \"country\": \"Brasil\", \"postalcode\": \"77001144\"}": null,
+"{\"city\": \"Porto Alegre\", \"country\": \"Brasil\", \"state\": \"RS\", \"street\": \"151 RUA MANOEL LOBATO\"}": [
+-30.0695199,
+-51.2163825
+],
+"{\"city\": \"Porto Alegre\", \"country\": \"Brasil\", \"state\": \"RS\", \"street\": \"VALENTIM VICENTINI\"}": [
+-30.0158528,
+-51.1772225
+],
+"{\"city\": \"Porto Alegre\", \"country\": \"Brasil\", \"postalcode\": \"90520220\"}": [
+-30.1009166,
+-51.1887882
+],
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"state\": \"RO\", \"street\": \"2031 RUA COLATINA\"}": [
+-8.7814694,
+-63.8061753
+],
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"postalcode\": \"76814118\"}": [
+-8.7494525,
+-63.8735438
+],
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"state\": \"RO\", \"street\": \"101 AV MARILDO CORDEIRO COM AIRTON SENNA\"}": null,
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"postalcode\": \"76834899\"}": [
+-8.7494525,
+-63.8735438
+],
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"state\": \"RO\", \"street\": \"RUA JOAO LEANDRO BARBOSA\"}": null,
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"postalcode\": \"76840000\"}": [
+-8.7494525,
+-63.8735438
+],
+"{\"city\": \"Porto Velho\", \"country\": \"Brasil\", \"state\": \"RO\", \"street\": \"JOSE SALEH\"}": null,
+"{\"city\": \"Rio Branco\", \"country\": \"Brasil\", \"state\": \"AC\", \"street\": \"1812 AVENIDA ANTONIO DA ROCHA VIANA\"}": [
+-9.959457,
+-67.8209803
+],
+"{\"city\": \"Rio Branco\", \"country\": \"Brasil\", \"state\": \"AC\", \"street\": \"0020 BR 364 KM 125 VIA VERDE\"}": null,
+"{\"city\": \"Rio Branco\", \"country\": \"Brasil\", \"postalcode\": \"69908768\"}": [
+-9.9765362,
+-67.8220778
+],
+"{\"city\": \"Rio Branco\", \"country\": \"Brasil\", \"state\": \"AC\", \"street\": \"ESTRADA DA SOBRAL\"}": [
+-9.9815564,
+-67.8249499
+],
+"{\"city\": \"Rio Branco\", \"country\": \"Brasil\", \"state\": \"AC\", \"street\": \"1595 RUA AFIF ARAO\"}": null,
+"{\"city\": \"Rio Branco\", \"country\": \"Brasil\", \"postalcode\": \"69900970\"}": [
+-15.2398109,
+-58.1160774
+],
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"AV CENTENARIO 1 ANDAR\"}": [
+-12.9889002,
+-38.5081161
+],
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"postalcode\": \"40100180\"}": null,
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"state\": \"BA\", \"street\": \"RUA DO FORNO\"}": [
+-12.9665716,
+-38.4839525
+],
+"{\"city\": \"Salvador\", \"country\": \"Brasil\", \"postalcode\": \"40010010\"}": null,
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"02 DAS LIMEIRAS\"}": [
+-2.510631,
+-44.2997303
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"3000 PROFESSOR CARLOS CUNHA\"}": [
+-2.4961713,
+-44.277478
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"postalcode\": \"65076820\"}": [
+-2.5295265,
+-44.2963942
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"01 RUA EMETERIO LEITAO\"}": null,
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"postalcode\": \"65076460\"}": [
+-2.5295265,
+-44.2963942
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"AVENIDA DOS PORTUGUESES\"}": [
+-2.5656491,
+-44.3302141
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"70 AV MELO POVOAS QD G\"}": null,
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"postalcode\": \"65051550\"}": [
+-2.5050579,
+-44.2637582
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"20 AVENIDA JOSE SANTANA QUADRA 38\"}": null,
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"postalcode\": \"65010000\"}": [
+-2.5295265,
+-44.2963942
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"AVENIDA 02\"}": [
+-4.372554,
+-44.6637598
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"postalcode\": \"65071040\"}": null,
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"AV PRICIPAL AV OESTE\"}": null,
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"postalcode\": \"65058217\"}": [
+-2.55788,
+-44.2115359
+],
+"{\"city\": \"São Luís\", \"country\": \"Brasil\", \"state\": \"MA\", \"street\": \"15 DA UNIVERSIDADE\"}": [
+-2.5086969,
+-44.2647604
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"200 RUA JULIO DE FELIPE GUEDES\"}": null,
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"04174040\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"45 RUA NICOLO TARTAGLA\"}": null,
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"03693050\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"800 RUA SERRA DA QUEIMADA\"}": [
+-23.5276125,
+-46.410663
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"313 AVENIDA QUEIROZ FILHO\"}": [
+-23.5378474,
+-46.7223793
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"57 RUA ROMULO NALDI\"}": [
+-23.4552043,
+-46.6839445
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"4795 ESTRADA DE ITAPECERICA\"}": [
+-23.6515583,
+-46.7578182
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"133 RUA LOUIS BOULOGNE\"}": [
+-23.653782,
+-46.7904807
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"3 RUA DOS ANIQUIS\"}": [
+-23.698268,
+-46.6473571
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"18 RUA PORTA DO PRADO\"}": [
+-23.7001797,
+-46.7823131
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"211 RUA DANIEL KLEIN\"}": [
+-23.6793271,
+-46.7492408
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"423 AVENIDA AMADEU DA SILVA SAMELO\"}": [
+-23.6314451,
+-46.7662207
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"98 RUA LUIZ ANTONIO VERNEY\"}": null,
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"05846380\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"286 AV UTARO KANAI\"}": [
+-23.5651384,
+-46.3970969
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"538 RUA AUGUSTO CORREA LEITE\"}": [
+-23.4999294,
+-46.5146472
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"35 RUA AFONSO LOPES VIEIRA\"}": [
+-23.4650534,
+-46.6565749
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"02671100\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"0247 RUA JOAO GUERRA\"}": [
+-23.9517301,
+-46.3229924
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"05535100\"}": [
+-23.5506507,
+-46.6333824
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"190 RUA SAO ROQUE DO PARAGACU\"}": null,
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"04837150\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"380 RUA CATAO\"}": [
+-23.5243453,
+-46.7012841
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"529 RUA CIDADE DE BAGDA\"}": [
+-23.6545748,
+-46.6519296
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"379 AVENIDA DOS FUNCIONARIOS PUBLICOS\"}": [
+-23.7332736,
+-46.7834207
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"04965140\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"state\": \"SP\", \"street\": \"294 AV PIRES DO RIO\"}": [
+-23.535509,
+-46.4556333
+],
+"{\"city\": \"São Paulo\", \"country\": \"Brasil\", \"postalcode\": \"08020000\"}": [
+-1.2043218,
+-47.1583944
+],
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO NOROESTE II HOB, Belo Horizonte, MG, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO UPA BRAZLANDIA, Brasília, DF, Brasil\"}": [
+-15.665289,
+-48.1980154
+],
+"{\"q\": \"SESAU CRS NOVA BAHIA DR GUNTER HANS, Campo Grande, MS, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO MORADA DO OURO, Cuiabá, MT, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO PASCOAL RAMOS, Cuiabá, MT, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO JARDIM LEBLON, Cuiabá, MT, Brasil\"}": [
+-15.6011508,
+-56.0728823
+],
+"{\"q\": \"UNIDADE PRONTO ATENDIMENTO CANINDEZINHO, Fortaleza, CE, Brasil\"}": null,
+"{\"q\": \"UPA JARDIM NOVO MUNDO, Goiânia, GO, Brasil\"}": null,
+"{\"q\": \"CENTRO EST DO SIST INT DE ATEND AO TRAUMA E EMERGENCIA SIATE, Goiânia, GO, Brasil\"}": null,
+"{\"q\": \"UPA DR JOAO BATISTA DE SOUSA JUNIOR UPA ITAIPU, Goiânia, GO, Brasil\"}": null,
+"{\"q\": \"UPA MARIA PIRES PERILLO UPA NOROESTE, Goiânia, GO, Brasil\"}": null,
+"{\"q\": \"PMM IMPE INSTITUTO MACAPAENSE DE PEDIATRIA, Macapá, AP, Brasil\"}": null,
+"{\"q\": \"UPA CIDADE UNIVERSITARIA, Maceió, AL, Brasil\"}": null,
+"{\"city\": \"Maceió\", \"country\": \"Brasil\", \"state\": \"AL\", \"street\": \"AVANIDA WALTER ANANIAS\"}": null,
+"{\"city\": \"Maceió\", \"country\": \"Brasil\", \"postalcode\": \"57022063\"}": [
+-9.6476843,
+-35.7339264
+],
+"{\"q\": \"UPA JARAGUA, Maceió, AL, Brasil\"}": [
+-9.6686529,
+-35.7206535
+],
+"{\"q\": \"UPA 24 HORAS CLAUDIO COSTA CHA DA JAQUEIRA, Maceió, AL, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO SUL, Palmas, TO, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE PRONTO ATENDIMENTO NORTE, Palmas, TO, Brasil\"}": null,
+"{\"q\": \"PLANTAO SAUDE MENTAL IAPI, Porto Alegre, RS, Brasil\"}": null,
+"{\"q\": \"PRONTO ATENDIMENTO JOSE ADELINO DA SILVA, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"SALA DE ESTABILIZACAO DE UNIAO BANDEIRANTES, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"SALA DE ESTABILIZACAO DE VISTA ALEGRE DO ABUNA, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"UPA JACY PARANA, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"UPA 24 HORAS DO 2 DISTRITO, Rio Branco, AC, Brasil\"}": null,
+"{\"q\": \"UPA DA CIDADE DO POVO DR EDILBERTO PARIGOT DE SOUZA FILHO, Rio Branco, AC, Brasil\"}": null,
+"{\"q\": \"SES RJ UPA 24H ILHA DO GOVERNADOR, Rio de Janeiro, RJ, Brasil\"}": null,
+"{\"q\": \"SMS UPA 24H MANGUINHOS AP 31, Rio de Janeiro, RJ, Brasil\"}": null,
+"{\"q\": \"UNIDADE DE EMERGENCIA MAE HILDA JITOLU, Salvador, BA, Brasil\"}": null,
+"{\"q\": \"PA PERNAMBUES EDSON T BARBOSA, Salvador, BA, Brasil\"}": null,
+"{\"q\": \"UPA 24H CIDADE BAIXA SANTO ANTONIO, Salvador, BA, Brasil\"}": null,
+"{\"q\": \"PRONTO ATENDIMENTO PSIQUIATRICO PAP, Salvador, BA, Brasil\"}": [
+-12.9913606,
+-38.5112017
+],
+"{\"q\": \"PA MARIA DA CONCEICAO SANTIAGO IMBASSAY, Salvador, BA, Brasil\"}": null,
+"{\"q\": \"UPA 24H SAN MARTIN, Salvador, BA, Brasil\"}": null,
+"{\"q\": \"OFTALMOCENTRO, São Luís, MA, Brasil\"}": [
+-2.5074641,
+-44.2842005
+],
+"{\"q\": \"PRONTO SOCORRO DO SAO FRANCISCO, São Luís, MA, Brasil\"}": null,
+"{\"q\": \"UPA ITAQUI BACANGA, São Luís, MA, Brasil\"}": [
+-2.5498218,
+-44.3069846
+],
+"{\"q\": \"OFTALMOCENTRO COHAB, São Luís, MA, Brasil\"}": [
+-2.5361857,
+-44.2226972
+],
+"{\"q\": \"UPA PARQUE VITORIA, São Luís, MA, Brasil\"}": null,
+"{\"q\": \"UPA VINHAIS, São Luís, MA, Brasil\"}": [
+-2.5134855,
+-44.2528667
+],
+"{\"q\": \"UPA CIDADE OPERARIA, São Luís, MA, Brasil\"}": [
+-2.5746128,
+-44.1975089
+],
+"{\"q\": \"UPA IPIRANGA DR AUGUSTO GOMES DE MATTOS, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"AMA 24H JARDIM NORDESTE DR CARLOS NEDER, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"AMA 12H JARDIM SAO LUIZ, São Paulo, SP, Brasil\"}": [
+-23.0199517,
+-46.8499385
+],
+"{\"q\": \"UPA III JARDIM PERI, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"AMA 12H JARDIM PERI PERI, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"UPA JARDIM ICARAI QUINTANA, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"UPA VERA CRUZ, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"UPA TITO LOPES, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"CENTENARIO, Salvador, BA, Brasil\"}": [
+-13.0060004,
+-38.5231655
+],
+"{\"q\": \"SAO FRANCISCO, São Luís, MA, Brasil\"}": [
+-2.511897,
+-44.3040792
+],
+"{\"q\": \"COHAB ANIL I, São Luís, MA, Brasil\"}": [
+-2.5356006,
+-44.2212059
+],
+"{\"q\": \"TURU, São Luís, MA, Brasil\"}": [
+-2.5203175,
+-44.225148
+],
+"{\"q\": \"VINHAIS, São Luís, MA, Brasil\"}": [
+-2.5139466,
+-44.2553796
+],
+"{\"q\": \"CIDADE OPERARIA, São Luís, MA, Brasil\"}": [
+-2.5761558,
+-44.1978004
+],
+"{\"q\": \"NOVA BAHIA, Campo Grande, MS, Brasil\"}": [
+-20.4158062,
+-54.5674961
+],
+"{\"q\": \"SETOR AEROPORTO, Goiânia, GO, Brasil\"}": [
+-16.6737673,
+-49.2709853
+],
+"{\"q\": \"RESIDENCIAL ITAIPU, Goiânia, GO, Brasil\"}": [
+-16.7916715,
+-49.3695183
+],
+"{\"q\": \"JARDIM CURITIBA I, Goiânia, GO, Brasil\"}": [
+-16.6002532,
+-49.3309998
+],
+"{\"q\": \"AURENY II, Palmas, TO, Brasil\"}": [
+-10.310165,
+-48.3188322
+],
+"{\"q\": \"PLANO DIRETOR NORTE, Palmas, TO, Brasil\"}": [
+-10.188104,
+-48.3386359
+],
+"{\"q\": \"IAPI, Porto Alegre, RS, Brasil\"}": [
+-30.0103732,
+-51.1766644
+],
+"{\"q\": \"MARCOS FREIRE, Porto Velho, RO, Brasil\"}": [
+-8.7804445,
+-63.8057238
+],
+"{\"q\": \"DIST UNIAO BANDEIRAN, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"VISTA ALEGRE DO ABUN, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"ZONA RURAL, Porto Velho, RO, Brasil\"}": null,
+"{\"q\": \"CORRENTE, Rio Branco, AC, Brasil\"}": null,
+"{\"q\": \"CIDADE DO POVO, Rio Branco, AC, Brasil\"}": [
+-10.0313607,
+-67.7485956
+],
+"{\"q\": \"SAN MARTIN, Salvador, BA, Brasil\"}": [
+-12.9473155,
+-38.4803207
+],
+"{\"q\": \"RENASCENCA, São Luís, MA, Brasil\"}": [
+-2.50084,
+-44.2900562
+],
+"{\"q\": \"JARDIM COIMBRA, São Paulo, SP, Brasil\"}": [
+-23.6579452,
+-46.4232729
+],
+"{\"q\": \"VILA DIONISIA, São Paulo, SP, Brasil\"}": [
+-23.4677655,
+-46.6587833
+],
+"{\"q\": \"JD PERI PERI, São Paulo, SP, Brasil\"}": null,
+"{\"q\": \"VILA SAO JOSE, São Paulo, SP, Brasil\"}": [
+-23.6015587,
+-48.0462568
+],
+"{\"q\": \"JARDIM VERA CRUZ, São Paulo, SP, Brasil\"}": [
+-23.7371016,
+-46.7784768
+],
+"{\"q\": \"VILA AMERICANA, São Paulo, SP, Brasil\"}": [
+-23.3189183,
+-47.7904073
+]
+}

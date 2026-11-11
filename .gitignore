@@ -4,10 +4,6 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Source downloads and generated analysis tables (several gigabytes)
-dados/*
-!dados/correcoes_manuais.csv
-
 # Course materials and copies of reference publications
 Bibliografia/
 Aula *.pptx
