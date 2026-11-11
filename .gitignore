@@ -1,0 +1,24 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Source downloads and generated analysis tables (several gigabytes)
+dados/*
+!dados/correcoes_manuais.csv
+
+# Course materials and copies of reference publications
+Bibliografia/
+Aula *.pptx
+Manual do trabalho escrito.pdf
+*:Zone.Identifier
+
+# Temporary LaTeX build files
+artigo/*.aux
+artigo/*.log
+artigo/*.bbl
+artigo/*.blg
+artigo/*.fdb_latexmk
+artigo/*.fls
+artigo/*.synctex.gz
