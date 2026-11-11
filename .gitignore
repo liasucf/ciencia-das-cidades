@@ -4,10 +4,7 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Course materials and copies of reference publications
-Bibliografia/
-Aula *.pptx
-Manual do trabalho escrito.pdf
+# Windows download metadata
 *:Zone.Identifier
 
 # Temporary LaTeX build files
