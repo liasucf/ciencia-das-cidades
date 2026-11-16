@@ -1,8 +1,7 @@
 {
-  "paginas": 2,
-  "limite_paginas": 3,
+  "paginas": 5,
+  "limite_paginas": 5,
+  "compilado": true,
   "referencias_resolvidas": true,
-  "avisos_overfull_hbox": 0,
-  "rascunho_com_pendencias": false,
-  "pendencias": []
+  "avisos_overfull_hbox": 0
 }

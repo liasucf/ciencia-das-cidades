@@ -8,7 +8,7 @@ Conferência em **04/11/2026**, a partir dos pedidos desta conversa, de [PLANO.m
 
 **Recorte confirmado pela autora (04/11/2026):** manter todo o processamento analítico em notebooks, registro, áreas de atendimento, 16 combinações de quatro faixas de densidade e quatro de renda, separação por densidade, mapas separados de renda/densidade, mapa com uma cor por área de atendimento, mapa de Fortaleza e a parcela de moradores muito longe. Manter o exemplo pequeno de Dijkstra. Para “muito longe”, usar **P90 ponderado pela população de cada capital**; incluir o setor no corte quando sua distância for maior ou igual ao P90 e explicitar que empates/setores indivisíveis podem resultar em mais de 10% dos moradores. **Não desenvolver nesta versão:** CCA, percolação, mapa separado de favela, mapa detalhado da rede/sentidos, mapa de propagação de distâncias, rede de pedestres e otimização de localização. Artefatos antigos são preservados como histórico. A seleção dos 16 grupos é classificação por faixas, sem CCA/percolação.
 
-**Ajuste solicitado pela autora em 04/11/2026:** deixar a comparação favela/não favela para depois. Não tratar suas curvas ou aprofundamentos como obrigação pendente agora. Os dados e resultados já existentes são preservados; não remover nem refazer automaticamente o artigo. A revisão atual dos slides identifica possibilidades, sem escolher novos métodos ou parâmetros.
+**Decisão da autora (11/11/2026):** a comparação favela/não favela não faz parte do trabalho. Nenhuma figura ou texto do artigo a usa. Os dados e resultados já existentes são preservados; não remover nem refazer automaticamente o artigo. A revisão atual dos slides identifica possibilidades, sem escolher novos métodos ou parâmetros.
 
 ## Como ler os checks
 
@@ -58,7 +58,7 @@ Aqui existem ideias diferentes. **Agrupar pelo atendimento mais próximo**, **cl
 |---|---|---|---|
 | C01 | Agrupar setores pela unidade mais próxima: áreas de atendimento | ✅ Recalculado em notebook | Notebook 03 da retomada gera áreas de atendimento e grupos de unidades que compartilham nós. A regra final de distância ainda depende da autora. |
 | C02 | Tipologia densidade × renda: 16 combinações dos quatro quartis | ✅ Tabela e mapas executados | Notebook `retomada/04_mapas_grupos_P90.ipynb` calcula os 16 grupos para as capitais e produz mapas de calor. Classificação por faixas, não descoberta automática de grupos. As figuras e tabelas foram atualizadas com a regra de distância escolhida. |
-| C03 | Destacar favelas dentro dos agrupamentos | ⏸ Aprofundamento adiado pela autora | Há indicador, médias de distância e contornos em artefatos existentes. Não expandir essa comparação nem tratá-la como obrigação atual. A existência do indicador não confirma completude da rede de acessos. |
+| C03 | Destacar favelas dentro dos agrupamentos | ✖ Fora do trabalho (decisão da autora) | Não será feito. |
 | C04 | Separar setores acima/abaixo de 1.500 moradores/km² | ✅ Mapa em notebook | O notebook de mapas separa as faixas em Fortaleza e explica que o corte sozinho não forma manchas contíguas nem implementa CCA. |
 | C05 | CCA: formar aglomerados de células densas próximas | ➖ Não desenvolver nesta versão, por escolha da autora | Possibilidade do curso preservada no histórico; a autora respondeu “CCA não”. |
 | C06 | Percolação na rede: formar grupos variando um critério de conexão | ➖ Não desenvolver nesta versão, por escolha da autora | Possibilidade do curso preservada no histórico; a autora respondeu “percolação não”. |
@@ -77,7 +77,7 @@ Aqui existem ideias diferentes. **Agrupar pelo atendimento mais próximo**, **cl
 | D07 | Gráficos sobre população, área e densidades | ✅ Gerados em notebook | Notebook 02: histogramas, população × área e relação entre densidades. Falta interpretação acompanhada dos eixos e dos pontos. |
 | D08 | Mapa de calor densidade × renda das 26 capitais | ✅ Calculado e desenhado | Notebook 04, SUS e todos. Cada célula tem distância relativa média ponderada pela população. Falta percorrer sua construção e leitura com a autora. |
 | D09 | Curvas de distância das capitais e por renda | ✅ Geradas | Notebook 04: 26 curvas SUS e curvas relativas por renda nas duas versões. L3 descritiva aprovada. |
-| D10 | Curvas de distância por favela/não favela | ⏸ Adiadas pela autora; não são tarefa obrigatória agora | Não foram implementadas; há somente médias no notebook 04. A autora pediu deixar essa comparação para depois em 04/11/2026. |
+| D10 | Curvas de distância por favela/não favela | ✖ Fora do trabalho (decisão da autora) | Não será feito. |
 | D11 | Comparação visual entre SUS e todos | ✅ Em vários gráficos | Notebooks 02–05 e resumos. A figura atual de quatro painéis usa SUS. Falta explicar à autora o que cada comparação permite concluir. |
 | D12 | Mostrar a parcela de moradores muito longe em cada grupo densidade × renda | ✅ Calculado em notebook | P90 ponderado por capital; mapas e tabela por 16 grupos disponíveis. Fortaleza SUS: P90 de 5,73 km e 10,0% dos moradores em setores ≥ P90. |
 | D13 | Gráficos bonitos, legíveis, construídos de acordo com os resultados | 🟡 Avaliação com a autora pendente | Há paleta comum, saídas nos notebooks e figura vetorial. Produzir arquivos e fazer revisão técnica não substitui verificar se eles ajudam a autora a compreender. |
@@ -153,7 +153,7 @@ Foram lidos os textos das cinco apresentações e inspecionadas as imagens dos s
 
 O arquivo atual `dados/processados/setores_capitais.csv` contém a coluna `favela`, construída no processamento a partir de `CD_TIPO`. A amostra SUS corrigida também contém a coluna. Portanto, hoje há uma marcação para separar os setores no nível mais básico. Isso não constitui uma auditoria da classificação nem garante que o OSM represente todas as ruas, becos e acessos dessas áreas. O plano registra essa limitação da rede. Não foi localizado nos documentos consultados um registro que permita reconstruir com certeza a conversa anterior sobre falta de dados; não atribuir uma lembrança específica à autora.
 
-**Decisão atual é suficiente e prevalece:** favela/não favela fica para depois, independentemente da disponibilidade dessa coluna. O foco da retomada é densidade, renda, ruas, agrupamentos e mapas de entendimento.
+**Decisão atual prevalece:** favela/não favela está fora do trabalho, independentemente da disponibilidade dessa coluna. O foco é densidade, renda, ruas, agrupamentos e mapas de entendimento.
 
 ## Retomada executada — 04/11/2026
 

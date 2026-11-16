@@ -71,7 +71,7 @@ O trabalho perderia força se:
 5. Atualizar o relatório/artigo somente a partir das análises conferidas. **Concluído em 04/11/2026:** artigo atualizado, compilado em 2 páginas e inspecionado visualmente.
 6. Fazer a revisão didática com a autora; a existência de notebooks executados não substitui sua compreensão e a revisão do texto antes da entrega.
 
-CCA, percolação, pedestres, otimização de localização, mapa separado de favela e mapas detalhados da rede/propagação não fazem parte da versão escolhida pela autora. O exemplo pequeno de Dijkstra foi mantido por escolha expressa. O acompanhamento dos itens está em [CHECKLIST_PESQUISA.md](CHECKLIST_PESQUISA.md).
+Percolação, pedestres, otimização de localização, análise de favela e mapas detalhados da rede/propagação não fazem parte da versão escolhida pela autora. O CCA exato também não, mas o L1 é refeito com o aglomerado urbano do IBGE (notebook 10), na mesma ideia. O exemplo pequeno de Dijkstra foi mantido por escolha expressa. O acompanhamento dos itens está em [CHECKLIST_PESQUISA.md](CHECKLIST_PESQUISA.md).
 
 
 ## Atualização dos artefatos — 04/11/2026

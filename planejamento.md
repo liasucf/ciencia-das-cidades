@@ -8,7 +8,7 @@ Regra do trabalho: toda a teoria vem das aulas (`Aula 1–5.pptx`) e da pasta [B
 
 **Forma de trabalho (04/11/2026):** todas as fases de análise devem ser feitas em notebooks Jupyter (`notebooks/`), com explicações, código e resultados visíveis. Scripts ficam para coleta de dados. Novas decisões metodológicas devem ser discutidas com a autora antes de serem executadas. Os scripts de análise existentes são mantidos como histórico.
 
-**Atualização da retomada:** a autora pediu adiar o aprofundamento de favela/não favela e revisar as ideias dos slides, especialmente agrupamentos e mapas. As menções a favela adiante registram o planejamento e os resultados anteriores; não representam uma obrigação de desenvolver essa comparação agora. Ver [CHECKLIST_PESQUISA.md](CHECKLIST_PESQUISA.md) para o estado atual e a revisão dos slides.
+**Atualização da retomada:** a autora decidiu tirar favela/não favela do trabalho e revisou as ideias dos slides, especialmente agrupamentos e mapas. As menções a favela adiante são do planejamento antigo e não serão desenvolvidas. Ver [CHECKLIST_PESQUISA.md](CHECKLIST_PESQUISA.md) para o estado atual e a revisão dos slides.
 
 ---
 
@@ -178,7 +178,7 @@ Pergunta: quanto a distância cairia se as **mesmas** unidades fossem realocadas
 - Escolher $x_{\min}$ como o início do trecho em que a curva é reta em log-log (Newman, seção II).
 - **Isso é um teste, não uma premissa.** Se a cauda não for lei de potência, isso é resultado e deve ser reportado.
 - **Prévia em Fortaleza:** a curva em log-log mostra mudanças de inclinação e queda no extremo da amostra. Isso motiva cautela ao descrever toda a distribuição como potência, mas não constitui sozinho um teste de rejeição de uma cauda. As leis de escala ajustadas do trabalho permanecem em L1 e L2; a L3 descritiva foi aprovada pela autora.
-- **Por grupo:** curvas separadas por quartil de renda e por favela/não favela.
+- **Por grupo:** curvas separadas por quartil de renda.
 - **Desigualdade:** Gini da distância ponderada pela população (Xu et al., Bruno et al., Ponte et al.).
 - **Base:** Newman, *Power laws, Pareto distributions and Zipf's law* (eqs. 3–6); Aulas 2 e 3.
 
@@ -191,7 +191,7 @@ Métodos genéricos como k-means não estão no material do curso. Por isso usam
 | Agrupamento | O que faz | Uso | Base |
 |---|---|---|---|
 | **Áreas de atendimento** (obrigatório) | Agrupa setores pela unidade mais próxima na rede | L2 e 6.2 | Xu et al. 2020 |
-| **Tipologia densidade × renda** (obrigatório) | Células da tabela 4×4 de 6.1, com favela como destaque | 6.1 e mapa | Aula 5, slide 5; Aula 2, slide 17 |
+| **Tipologia densidade × renda** (obrigatório) | Células da tabela 4×4 de 6.1 | 6.1 e mapa | Aula 5, slide 5; Aula 2, slide 17 |
 | **Limiar de densidade** | Setores acima ou abaixo de 1.500 hab/km² | Contraste denso/não denso | Aula 5, slide 5 |
 | Percolação na rede viária (opcional) | Agrupa interseções por comprimento de rua | Mancha urbana em várias escalas | Aula 5, slides 19–21 |
 | CCA (opcional) | Agrupa células densas próximas | Repetir L1 com outra fronteira | Aula 5, slides 10–12; Oliveira et al. 2018 |
@@ -230,7 +230,7 @@ Uma figura com cinco painéis:
 
 | Painel | Conteúdo | Eixos |
 |---|---|---|
-| **(a)** Mapa de uma capital | Rede viária, unidades, áreas de atendimento, setores coloridos pelo tipo densidade × renda, favelas destacadas | mapa |
+| **(a)** Mapa de uma capital | Rede viária, unidades, áreas de atendimento, setores coloridos pelo tipo densidade × renda | mapa |
 | **(b)** L1 | 26 capitais, ajuste com β, banda de bootstrap, reta de referência β = 1 | log P × log nº de unidades |
 | **(c)** L2 | Áreas de atendimento **coloridas pelo quartil de renda**, ajuste com α, retas de referência 2/3 e 1 | log ρ × log D |
 | **(d)** L3 | $P(d \ge x)$ por quartil de renda, com γ | log distância × log P(d ≥ x) |

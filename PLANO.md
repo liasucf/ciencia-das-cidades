@@ -6,7 +6,7 @@ Documento de passagem para o agente que vai continuar o projeto. Ele resume o qu
 
 **Controle dos pedidos:** consultar [CHECKLIST_PESQUISA.md](CHECKLIST_PESQUISA.md), que reúne os pedidos desta conversa e as ideias do planejamento, incluindo agrupamentos, CCA/percolação, mapas de entendimento, lacunas de migração e evidências de execução. Não usar os checks antigos como substitutos desse controle. A autora voltou a destacar clusterização e mapas; as ideias opcionais continuam registradas, sem escolha automática de implementá-las ou descartá-las.
 
-**Ajuste mais recente:** a autora pediu deixar favela/não favela para depois. Não cobrar suas curvas ou aprofundamentos como obrigação atual. O indicador existe nos arquivos atuais, mas isso não garante qualidade/completude das rotas. A revisão das aulas, documentada no checklist, recuperou CCA (Aula 5, slides 10–12), percolação (19–20), comparação dos grupos com renda (21) e definição de manchas urbanas (5 e 17). São possibilidades a discutir, não novos métodos ou parâmetros já escolhidos.
+**Ajuste mais recente (11/11/2026):** a autora decidiu que favela/não favela não faz parte do trabalho. A coluna ainda existe nos arquivos de dados, mas não é usada em nenhuma análise, figura ou texto do artigo. A revisão das aulas, documentada no checklist, recuperou CCA (Aula 5, slides 10–12), percolação (19–20), comparação dos grupos com renda (21) e definição de manchas urbanas (5 e 17). São possibilidades a discutir, não novos métodos ou parâmetros já escolhidos.
 
 **Seleção posterior da autora:** manter os agrupamentos por atendimento, os 16 grupos de densidade × renda, separação por densidade, mapas de renda/densidade, áreas de atendimento e Fortaleza, processamento integral em notebooks e registro. Manter o exemplo pequeno de Dijkstra e medir “muito longe” pelo **P90 ponderado pela população de cada capital**. Não desenvolver CCA, percolação, mapa separado de favela, mapa detalhado da rede, mapa de propagação de distâncias, pedestres ou p-mediana nesta versão. O artigo foi atualizado e compilado; a prioridade segue sendo compreender os notebooks e resultados. Ver o checklist para os estados atualizados; as opções antigas abaixo permanecem como histórico.
 
@@ -59,7 +59,7 @@ Entregar um **artigo de no máximo 3 páginas, em português**, com **pelo menos
 | L1 (lei de escala) | Usar a contagem de PAs **do SUS** por capital (`n_pa_sus` em `capitais_resumo.csv`); repetir com `n_pa` como robustez | Coerência com a versão principal. A prévia β = 0,88 foi feita com `n_pa` e precisa ser refeita |
 | Unidade espacial | **Setor censitário do Censo 2022** (~500 moradores em média) | Traz população, área, renda e favela |
 | Renda | **Renda média do responsável (V06004)** | A mediana (V06006) fica travada em R$ 1.212 (salário mínimo) em 17% dos setores |
-| Urbano/rural | Substituído por **quartis de densidade** e **favela** (`CD_TIPO = 1`) | Dentro das capitais, a população rural é no máximo 7,4% |
+| Urbano/rural | Substituído por **quartis de densidade** (`CD_TIPO` não é usado) | Dentro das capitais, a população rural é no máximo 7,4% |
 | Quartis | Calculados **dentro de cada capital** | Os níveis de renda e densidade variam muito entre capitais |
 | Rede viária | Rede **para carro** (`drive`), dirigida, com faixa de 5 km além do limite municipal | Urgência não se faz a pé; mão única importa |
 | Fonte da rede | Extratos regionais do **Geofabrik** (`dados/osm/pbf/`), recortados com `pyosmium` | O servidor Overpass estava sobrecarregado |
@@ -176,7 +176,7 @@ Gerada em `notebooks/06_figura_final.ipynb`: `figuras/final/figura_principal.pdf
 
 | Painel | Conteúdo |
 |---|---|
-| (a) | Mapa de **Fortaleza**: os 12 PAs do SUS, áreas de atendimento, setores coloridos pelo tipo densidade × renda, favelas |
+| (a) | Mapa de **Fortaleza**: os 12 PAs do SUS, áreas de atendimento, setores coloridos pelo tipo densidade × renda |
 | (b) | L1: 26 capitais, reta ajustada com β, banda de bootstrap, referência β = 1 |
 | (c) | L2: áreas de atendimento coloridas pelo quartil de renda, reta com α, referências 2/3 e 1 |
 | (d) | L3: curva observada da distância relativa por renda; descrição sem ajuste de potência, aprovada pela usuária |

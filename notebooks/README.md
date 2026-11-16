@@ -15,8 +15,12 @@ A autora pediu que **todas as etapas analíticas e de visualização sejam feita
 9. [04_distancias_L3.ipynb](04_distancias_L3.ipynb) — curvas de distância, Gini e comparação descritiva por renda, sem ajuste de cauda.
 10. [retomada/04_mapas_grupos_P90.ipynb](retomada/04_mapas_grupos_P90.ipynb) — 16 grupos renda × densidade, P90, mapas de Fortaleza e áreas de atendimento.
 11. [05_L1_escala.ipynb](05_L1_escala.ipynb) — número de unidades em função da população das capitais.
-12. [06_figura_final.ipynb](06_figura_final.ipynb) — figura vetorial de síntese.
-13. [07_artigo.ipynb](07_artigo.ipynb) — gera e confere o artigo em LaTeX.
+12. [08_metodo_setor_PA_dijkstra.ipynb](08_metodo_setor_PA_dijkstra.ipynb) — explica e desenha como cada setor é ligado a um PA (ruas OSM + Dijkstra); Figura 1 do artigo.
+13. [09_escala_L1_L2.ipynb](09_escala_L1_L2.ipynb) — gráficos log-log de L1 e L2, PAs por 100 mil habitantes e teste de embaralhamento do α; Figura 2 do artigo.
+14. [10_L1_aglomerado_urbano.ipynb](10_L1_aglomerado_urbano.ipynb) — refaz o L1 com o aglomerado urbano do IBGE no lugar do município (ideia do CCA).
+15. [11_gini_distancia.ipynb](11_gini_distancia.ipynb) — Gini da distância até o PA (curva de Lorenz) comparado com PAs por 100 mil habitantes e por 100 km²; Figura 3 do artigo.
+16. [06_figura_final.ipynb](06_figura_final.ipynb) — matrizes de distância por renda e densidade e mapas de Fortaleza; Figura 4 do artigo.
+17. [07_artigo.ipynb](07_artigo.ipynb) — gera `artigo.tex` com os números dos CSVs e confere o PDF se o LaTeX estiver instalado.
 
 ## Estado depois da escolha da menor distância total
 
@@ -26,7 +30,7 @@ Em Salvador, no recorte Todos, o PA Ilha de Maré tem ligação de aproximadamen
 
 L2 atualizado: SUS, α=0,861 (IC95% 0,797–0,935), 245 áreas/unidades; Todos, α=0,899 (0,834–0,973), 272 áreas representando 273 unidades. O modelo de renda: δ=−0,196 (−0,353 a −0,029) em SUS; δ=0,029 (−0,122 a 0,188) em Todos. São associações, não causalidade nem prova de localização ótima.
 
-A L3, mapas e figura usam as distâncias atualizadas. O artigo foi compilado com **duas páginas**, referências resolvidas e sem avisos de caixas largas. A conferência visual do PDF foi feita. Ainda falta a revisão interpretativa acompanhada com a autora; execução sem erro não significa que ela já compreendeu e consiga explicar cada etapa.
+A L3, mapas e figura usam as distâncias atualizadas. O texto do artigo foi reescrito (quatro figuras) e o `artigo.pdf` foi recompilado: tem 4 páginas, uma acima do limite do manual (a autora aceita passar um pouco de 3 se o Gini for interessante). Ainda falta a revisão interpretativa acompanhada com a autora; execução sem erro não significa que ela já compreendeu e consiga explicar cada etapa.
 
 ## Saídas
 

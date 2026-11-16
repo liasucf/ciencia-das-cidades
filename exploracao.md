@@ -78,20 +78,12 @@ Um **setor censitário** é a menor área em que o IBGE divulga dados. Nas capit
 - **Por que isso importa:** na seção 6.2 do planejamento, separamos o efeito da densidade e o da renda sobre a oferta de unidades. Onde as duas andam juntas, como em Fortaleza, olhar só a renda misturaria os dois efeitos. Por isso precisamos dos resíduos ou da regressão com as duas variáveis.
 - A correlação de Spearman usa a ordem dos valores, e não os valores em si. Assim, ela não é distorcida pelos poucos setores com densidade extrema.
 
-## 7. Favelas
-
-![Favelas por capital](figuras/exploracao/07_favela_por_capital.png)
-
-- Belém (57%) e Manaus (56%) têm mais da metade da população em setores de favela e comunidade urbana; Salvador tem 43%. Em Campo Grande e Goiânia, são menos de 2%.
-- A favela é um indicador direto de necessidade social, com base na Aula 2 (slide 17).
-
 ## 8. Fortaleza no mapa
 
 ![Mapas de Fortaleza](figuras/exploracao/08_mapas_fortaleza.png)
 
 - **(a) Densidade:** o oeste e o sul são densos e homogêneos. As manchas claras são áreas verdes, lagoas e grandes equipamentos.
 - **(b) Renda:** a renda alta se concentra no centro-norte e no leste. Os bairros com maior renda média (ponderada pela população, entre bairros com mais de 5 mil moradores) são Guararapes (R$ 14.966), Cocó, Meireles e Aldeota. O oeste e o sul são mais pobres.
-- **(c) Favelas:** espalhadas pela cidade, com concentração no oeste, no litoral norte e no sul.
 - **(d) Os 13 pronto-atendimentos:** 12 deles atendem o SUS e ficam fora dos bairros mais ricos, sobretudo na periferia oeste e sul, que é densa e mais pobre. O único na área de renda mais alta é o **Pronto Atendimento Aldeota**, que **não atende o SUS** e não funciona 24h.
 - **Primeira impressão:** em Fortaleza, a rede do SUS parece **favorecer os mais pobres**, o que seria uma oferta compensatória (δ < 0 na seção 6.2 do planejamento). A seção 10 confirma isso com as distâncias pela rua.
 - Uma explicação possível, a ser discutida com cuidado: quem tem renda alta usa mais o pronto-atendimento privado. Por isso a comparação "todos os PAs" × "só SUS" importa (seção 10).
